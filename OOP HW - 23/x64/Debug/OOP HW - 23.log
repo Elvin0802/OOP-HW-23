@@ -1,0 +1,3 @@
+﻿  MyMain.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 23\OOP HW - 23\MyMain.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP HW - 23.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 23\x64\Debug\OOP HW - 23.exe
